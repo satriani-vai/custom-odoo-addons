@@ -1,6 +1,6 @@
 {
     'name': 'Custom Outgoing Email Server',
-    'images': ['static/description/screenshot.jpg'],
+    'images': ['images/main_screenshot.png']
     'summary': """Allow to pick the Outgoing Server when composing email""",
     'version': '11.0.1.0.0',
     'author': 'BUSO Co. Ltd',
