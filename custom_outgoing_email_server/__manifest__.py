@@ -8,9 +8,6 @@
     'website': 'https://www.busovn.com',
     'category': 'web',
     'depends': ['mail'],
-    'external_dependencies': {
-        'python': ['mail_thread']
-    },
     'data': [
         'wizard/mail_compose_message_view.xml',
     ],
